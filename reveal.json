@@ -1,0 +1,7 @@
+{
+	"transition" : "slide",
+	"width": 800,
+	"height": 450,
+	"maxScale": 4,
+	"center": false
+}

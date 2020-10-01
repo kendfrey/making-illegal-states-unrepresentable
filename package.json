@@ -1,0 +1,17 @@
+{
+  "name": "making-illegal-states-unrepresentable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "npm-build-tools": "^2.2.5",
+    "reveal-md": "^4.1.6",
+    "yargs": "^16.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": ""
+}

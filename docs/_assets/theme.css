@@ -1,0 +1,44 @@
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: Palatino Linotype, Georgia, Times New Roman, Times, serif;
+}
+
+h1
+{
+	font-size: 2em;
+}
+
+a,
+a:visited
+{
+	color: #0000ee;
+}
+
+.reveal .slides section
+{
+	text-align: left;
+	line-height: 1.5;
+}
+
+.reveal .slides section li
+{
+	margin: 1em 0;
+}
+
+.reveal .slides section code
+{
+	font-family: Source Code Pro, DejaVu Sans Mono, Consolas, Courier New, monospace;
+	line-height: 1.2;
+	background: #efefef;
+	white-space: pre;
+}
+
+.reveal .slides section.center
+{
+	text-align: center;
+}

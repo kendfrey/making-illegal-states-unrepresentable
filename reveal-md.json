@@ -1,0 +1,6 @@
+{
+	"theme": "theme.css",
+	"highlightTheme": "vs",
+	"template": "template.html",
+	"scripts": ["highlight.pack.js", "lean.min.js", "run-highlight.js"]
+}
