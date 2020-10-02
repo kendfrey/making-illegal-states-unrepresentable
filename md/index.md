@@ -825,7 +825,7 @@ mathematical proofs, I suggest trying [Lean](https://leanprover.github.io/), the
 ----
 
 If you want to try the code samples for yourself, the source code for this slideshow is at
-https://example.com/insert-link-here.
+https://github.com/kendfrey/making-illegal-states-unrepresentable/blob/master/src/index.lean.
 
 ---
 
